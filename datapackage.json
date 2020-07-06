@@ -1,50 +1,80 @@
 {
-  "publisher": "irakli-mchedlishvili", 
-  "data_privacy_regulated": false, 
-  "locked": false, 
-  "name": "uat-test-resource-create96771", 
-  "maintainer": "irakli-mchedlishvili", 
-  "title": "uat-test-resource-create96771", 
-  "notes": "empty", 
   "owner_org": "b18ee2aa-62b7-43cc-b5cb-ba1b5b7a3006", 
-  "geographic_level": "global", 
-  "maintainer_email": "Irakli.Mchedlishvili@gatesfoundation.org", 
-  "data_privacy_country": "[\"ARG\"]", 
-  "information_classification": "public-public-external", 
-  "visibility": "public", 
+  "maintainer": "irakli-mchedlishvili", 
+  "relationships_as_object": [], 
   "private": false, 
-  "creator_user_id": "1379f24a-30d6-48f2-9c6e-d79551f4364c", 
+  "maintainer_email": "Irakli.Mchedlishvili@gatesfoundation.org", 
+  "num_tags": 0, 
+  "num_resources": 1, 
+  "id": "5121c03d-ff56-4118-ad88-1cbc7e025b82", 
+  "metadata_created": "2020-07-06T11:30:25.204368", 
+  "metadata_modified": "2020-07-06T11:30:33.125865", 
+  "author": null, 
+  "author_email": null, 
+  "state": "active", 
   "license_id": "cc-by", 
   "type": "dataset", 
-  "id": "5121c03d-ff56-4118-ad88-1cbc7e025b82", 
-  "extras": [
+  "resources": [
     {
-      "value": "[\"ARG\"]", 
-      "key": "data_privacy_country"
-    }, 
-    {
-      "value": false, 
-      "key": "data_privacy_regulated"
-    }, 
-    {
-      "value": "global", 
-      "key": "geographic_level"
-    }, 
-    {
-      "value": "public-public-external", 
-      "key": "information_classification"
-    }, 
-    {
-      "value": false, 
-      "key": "locked"
-    }, 
-    {
-      "value": "irakli-mchedlishvili", 
-      "key": "publisher"
-    }, 
-    {
-      "value": "public", 
-      "key": "visibility"
+      "cache_last_updated": null, 
+      "package_id": "5121c03d-ff56-4118-ad88-1cbc7e025b82", 
+      "datastore_contains_all_records_of_source_file": "False", 
+      "datastore_active": false, 
+      "id": "dc4818fd-fe1a-446a-9ef4-9eddeb7f881a", 
+      "size": null, 
+      "metadata_modified": "2020-07-06T11:30:33.134389", 
+      "state": "active", 
+      "hash": "", 
+      "description": "", 
+      "format": "", 
+      "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+      }, 
+      "mimetype_inner": null, 
+      "url_type": null, 
+      "mimetype": null, 
+      "cache_url": null, 
+      "created": "2020-07-06T11:30:33.144207", 
+      "url": "", 
+      "last_modified": null, 
+      "position": 0, 
+      "revision_id": "4abdd006-d23e-4692-8ac8-d1cabf892e26", 
+      "resource_type": null
     }
-  ]
+  ], 
+  "data_privacy_regulated": false, 
+  "tags": [], 
+  "title": "uat-test-resource-create96771", 
+  "geographic_level": "global", 
+  "tracking_summary": {
+    "total": 0, 
+    "recent": 0
+  }, 
+  "visibility": "public", 
+  "groups": [], 
+  "creator_user_id": "1379f24a-30d6-48f2-9c6e-d79551f4364c", 
+  "relationships_as_subject": [], 
+  "publisher": "irakli-mchedlishvili", 
+  "information_classification": "public-public-external", 
+  "locked": false, 
+  "name": "uat-test-resource-create96771", 
+  "isopen": true, 
+  "notes": "empty", 
+  "license_title": "Creative Commons Attribution", 
+  "license_url": "http://www.opendefinition.org/licenses/cc-by", 
+  "organization": {
+    "description": "", 
+    "title": "", 
+    "created": "2020-07-06T11:30:24.753022", 
+    "approval_status": "approved", 
+    "is_organization": true, 
+    "state": "active", 
+    "image_url": "", 
+    "revision_id": "b2ad5950-8fde-491f-8782-2b2e315136f4", 
+    "type": "organization", 
+    "id": "b18ee2aa-62b7-43cc-b5cb-ba1b5b7a3006", 
+    "name": "uat-testing"
+  }, 
+  "revision_id": "2d5f9bdc-dc8a-489a-ae02-4eef4e53244b"
 }
